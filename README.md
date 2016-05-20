@@ -1,2 +1,2 @@
 # Leetcode
-Personal solution of Leetcode problems, with some document maybe.
+Personal solution of Leetcode problems, with some documents maybe.
