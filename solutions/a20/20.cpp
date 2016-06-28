@@ -3,7 +3,7 @@
 	> Author: Crazykev
 	> Mail: zcq8989@gmail.com
 	> Created Time: 2016年06月21日 星期二 17时17分36秒
-    Solution of 20. Valid Parentheses. Easy 
+    Solution of 20. Valid Parentheses. Easy. 3.61%
  ************************************************************************/
 
 #include<iostream>
