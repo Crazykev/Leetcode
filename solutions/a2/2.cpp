@@ -3,6 +3,7 @@
 	> Author: Crazykev
 	> Mail: zcq8989@gmail.com
 	> Created Time: 2016年04月17日 星期日 21时25分37秒
+    Solution of algorithm 2.Add Two Numbers. Easy. 69.47%
  ************************************************************************/
 
 #include<iostream>
